@@ -12,7 +12,7 @@ public class StudentDriver {
 //		s1.address="Chennai";
 //		s1.gpa=8.8f;
 //		
-//		Student s2=new Student("Ananth");
+//		Student s2=new Student("Ananth"); // Appo kooda ivan name ah eduka mudiyaadhu la
 //		s2.address="Attur";
 //		s2.gpa=8.8f;
 //		
